@@ -1,15 +1,24 @@
 # Exploratory Data Analysis (EDA) on Air Quality in India Dataset
 
+## Dataset
+
+India Air Quality dataset containing daily city-level air quality records, pollutant measurements and AQI values across different Indian cities.
+
 ## Project Overview
 This project analyzes daily city-level air quality records to uncover trends, seasonal patterns, pollutant correlations, and urban hotspots of pollution.
 
-## Tools & Libraries
-- Python
-- Pandas – data cleaning & manipulation
-- Matplotlib & Seaborn – data visualization
-- Jupyter Notebook – analysis & presentation
+## Tech Stack
 
-## Final Summary of Insights:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Folium
+- Geopy
+
+## Summary of Insights:
 
 ### 1 - Missing Data:
 - High missingness in Xylene, PM10, NH3, Toluene.
@@ -34,3 +43,7 @@ This project analyzes daily city-level air quality records to uncover trends, se
 ### 6 - Weekday vs Weekend
 - Slightly higher AQI on weekdays in some cities (likely traffic-related).
 - Overall effect modest; varies by city.
+
+## License
+
+This project is licensed under the MIT License.
