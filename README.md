@@ -40,7 +40,7 @@ This project analyzes daily city-level air quality records to uncover trends, se
 - Worst AQI in winter, better air in warmer months.
 - Monthly trends show spikes during late autumn–winter pollution episodes.
 
-### 6 - Weekday vs Weekend
+### 6 - Weekday vs Weekend:
 - Slightly higher AQI on weekdays in some cities (likely traffic-related).
 - Overall effect modest; varies by city.
 
